@@ -1,0 +1,16 @@
+Zehra Ergul:
+  name             : "Zehra"
+  avatar           : "/assets/img/profile1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Security Blog"
+  location         : "Istanbul"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zehraergul14@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ZehraaErgul"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zehraergul"
