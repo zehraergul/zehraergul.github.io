@@ -1,1 +1,0 @@
-# zehraergul.github.io
